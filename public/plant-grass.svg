@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>Low priority task: Grass</title>
+  <desc>Simple green grass illustration representing a low-priority task in Task Garden.</desc>
+  <path fill="#38A3A5" d="M0 50 L16 34 L32 50 L48 34 L64 50 V64 H0 Z"/>
+  <path fill="#43BFC7" d="M0 54 L16 38 L32 54 L48 38 L64 54 V64 H0 Z"/>
+</svg>
